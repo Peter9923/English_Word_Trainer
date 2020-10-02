@@ -10,13 +10,13 @@
 #
 ![Menu](https://user-images.githubusercontent.com/66031693/94906316-8d7c2780-049e-11eb-8508-a846ec04f735.png)
 
-# A progam a középiskolás szójegyzéket tartalmazza, illetve van rá lehetőség, hogy saját szójegyzéket adjunk hozzá. A kiválasztás után 3 fajta gyakorlási típusból lehet választani.
+# A progam a középiskolás szójegyzéket tartalmazza, illetve van rá lehetőség, hogy saját szójegyzéket adjunk hozzá. A legördülő Menükből tudunk választani, miután kiválasztottunk egyet rákell kattintani az "Ezt választom" Gombra, ezután kiválaszthatjuk, hogy melyik gyakorlási formával szeretnénk gyakorolni az angól szójegyzékünket.
 #
 #
 ![Kivalasztas](https://user-images.githubusercontent.com/66031693/94906334-98cf5300-049e-11eb-8156-29ec49476e1e.png)
 
 # Az első típus:
-#             - A kiválasztott szójegyzéken végig halad a program, amennyiben az adott szót nem tudtuk, úgy bekerül egy nem tudtam státuszba és addig fogja a program a későbbiekben visszadobni a szót, amíg legalább 2szer nem tudtuk egymás után.
+#             - A kiválasztott szójegyzéken végig halad a program, amennyiben az adott szót nem tudtuk, úgy bekerül egy nem tudtam státuszba és addig fogja a program a későbbiekben visszadobni a szót, amíg legalább 2szer nem tudtuk egymás után. A gyakorlás során lehetőségünk van elmenteni az aktuális állapotot, ha esetleg fontos dolgunk adódna és kikéne lépni a programból. Ezt egy TXT fájlba tölti bele , amit utána megtudunk nyitni a saját Szójegyzéj Megnyitása gombbal és folytathatjuk ott ahol abbahagytuk.
 #
 #
 ![Tipusok](https://user-images.githubusercontent.com/66031693/94906356-a1278e00-049e-11eb-9ebf-dd33de21e954.png)
@@ -30,7 +30,7 @@
 
 
 # Játék típus:
-#            -A szavakat random beleteszi a szójegyzékből, mindig 10-et. Ezután összekell kapcsolunk a megfelelő szópárokat.
+#            -A szavakat random beleteszi a szójegyzékből, 10 angol szót és annak a magyar párjait. Miután megtaláltuk az összes párt a program gratulál és ezután indíthatjuk a következő kört.
 #
 #
 ![Jatek](https://user-images.githubusercontent.com/66031693/94906407-b6042180-049e-11eb-9ba7-4922b82564bc.png)
