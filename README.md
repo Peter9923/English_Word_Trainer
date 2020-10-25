@@ -1,4 +1,4 @@
-# English_Word_Trainer
+# English_Word_Trainer c#
 
 # BetöltőKépernyő
 #
